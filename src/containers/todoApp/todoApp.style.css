@@ -1,0 +1,11 @@
+.todo-container {
+    display: flex;
+    justify-content: center;
+}
+
+.todo-box {
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+}
+
