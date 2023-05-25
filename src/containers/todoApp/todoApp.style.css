@@ -9,3 +9,12 @@
     gap: 2rem;
 }
 
+.todo-list h1 {
+    margin-bottom: 20px;
+}
+
+input {
+    height: 30px;
+    border-radius: 10px;
+    margin-right: 10px;
+}
